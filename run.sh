@@ -1,4 +1,7 @@
 # #!/bin/bash
+if [ ! -f data ]; then
+    mkdir data
+fi
 for file in data/* executable ; do
   if [ -f "$file" ]; then
     rm "$file"
