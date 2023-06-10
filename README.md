@@ -7,20 +7,20 @@ distinguishable particle.
 
 
 #### **System Variables**
-* _L_: Number of Sites
-* _N_: Number of fermions
+* _l_: Number of Sites
+* _n_: Number of fermions
 
 #### **Energy**
-* _T1_: Nearest neighbour hopping kinetic energy 
-* _U1_: Nearest neighbour interaction
-* _T2_: Next Nearest neighbour hopping kinetic energy (Need to be tested)
-* _U2_: Next Nearest neighbour interaction (Need to be tested)
-* _Vr_: Strength of sites potential energy
+* _t1_: Nearest neighbour hopping kinetic energy 
+* _u1_: Nearest neighbour interaction
+* _t2_: Next Nearest neighbour hopping kinetic energy (Need to be tested)
+* _u2_: Next Nearest neighbour interaction (Need to be tested)
+* _vr_: Strength of sites potential energy
 * Vt:Type of Onsite Potential (`R`=Random, `L`=Linear, `Q`=Quadratic)
-* _Ts_: Test particle hopping kinetic energy
-* _W_: Onsite interaction strength of fermions with test particle
+* _ts_: Test particle hopping kinetic energy
+* _ws_: Onsite interaction strength of fermions with test particle
 
 #### **Results**
 Check the `data` directory.
 
-Support. m.koorepaz@gmail.com
+Support: m.koorepaz@gmail.com
